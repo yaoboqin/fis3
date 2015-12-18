@@ -61,7 +61,7 @@ fis.match('/test/server.conf', {
 
 ## 动态假数据
 
-静态的假数据可以通过 json 文件提供，那么动态数据怎么提供？node 服务器可以通过 js 的方式提供动态家数据。
+静态的假数据可以通过 json 文件提供，那么动态数据怎么提供？node 服务器可以通过 js 的方式提供动态假数据。
 
 /test/dynamic.js
 
